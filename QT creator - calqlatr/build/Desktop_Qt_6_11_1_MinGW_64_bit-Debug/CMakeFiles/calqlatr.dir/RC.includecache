@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/CJOPROOQT/QT creator - calqlatr/windows/calqlatr.rc
+winver.h
+C:/CJOPROOQT/QT creator - calqlatr/windows/winver.h
+

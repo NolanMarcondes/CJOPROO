@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/demos/calqlatr/">
+    <file alias="content/images/backspace.svg">C:/CJOPROOQT/QT creator - calqlatr/content/images/backspace.svg</file>
+    <file alias="content/images/backspace_fill.svg">C:/CJOPROOQT/QT creator - calqlatr/content/images/backspace_fill.svg</file>
+  </qresource>
+</RCC>
+

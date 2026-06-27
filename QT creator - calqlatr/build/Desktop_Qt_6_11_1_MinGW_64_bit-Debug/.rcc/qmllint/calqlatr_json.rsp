@@ -1,0 +1,26 @@
+--bare
+-I
+C:/CJOPROOQT/QT creator - calqlatr/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug
+-I
+C:/CJOPROOQT/QT creator - calqlatr/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/demos/calqlatr
+-I
+C:/CJOPROOQT/QT creator - calqlatr/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug
+-I
+C:/Qt/6.11.1/mingw_64/qml
+--resource
+C:/CJOPROOQT/QT creator - calqlatr/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/qmake_demos_calqlatr.qrc
+--resource
+C:/CJOPROOQT/QT creator - calqlatr/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/calqlatr_raw_qml_0.qrc
+--resource
+C:/CJOPROOQT/QT creator - calqlatr/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/calqlatr_raw_res_0.qrc
+--resource
+C:/CJOPROOQT/QT creator - calqlatr/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/.qt/rcc/calqlatr_raw_qml_0_extra_qmldirs.qrc
+C:/CJOPROOQT/QT creator - calqlatr/Main.qml
+C:/CJOPROOQT/QT creator - calqlatr/content/ApplicationState.qml
+C:/CJOPROOQT/QT creator - calqlatr/content/Display.qml
+C:/CJOPROOQT/QT creator - calqlatr/content/NumberPad.qml
+C:/CJOPROOQT/QT creator - calqlatr/content/CalculatorButton.qml
+C:/CJOPROOQT/QT creator - calqlatr/content/BackspaceButton.qml
+C:/CJOPROOQT/QT creator - calqlatr/content/calculator.js
+--json
+C:/CJOPROOQT/QT creator - calqlatr/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/calqlatr_qmllint.json

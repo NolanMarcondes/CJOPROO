@@ -1,0 +1,11 @@
+module demos.calqlatr
+typeinfo calqlatr.qmltypes
+prefer :/qt/qml/demos/calqlatr/
+Main 254.0 Main.qml
+ApplicationState 254.0 content/ApplicationState.qml
+Display 254.0 content/Display.qml
+NumberPad 254.0 content/NumberPad.qml
+CalculatorButton 254.0 content/CalculatorButton.qml
+BackspaceButton 254.0 content/BackspaceButton.qml
+depends QtQuick
+

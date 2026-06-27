@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt/qml/demos/calqlatr/">
+    <file alias="Main.qml">C:/CJOPROOQT/QT creator - calqlatr/Main.qml</file>
+    <file alias="content/ApplicationState.qml">C:/CJOPROOQT/QT creator - calqlatr/content/ApplicationState.qml</file>
+    <file alias="content/Display.qml">C:/CJOPROOQT/QT creator - calqlatr/content/Display.qml</file>
+    <file alias="content/NumberPad.qml">C:/CJOPROOQT/QT creator - calqlatr/content/NumberPad.qml</file>
+    <file alias="content/CalculatorButton.qml">C:/CJOPROOQT/QT creator - calqlatr/content/CalculatorButton.qml</file>
+    <file alias="content/BackspaceButton.qml">C:/CJOPROOQT/QT creator - calqlatr/content/BackspaceButton.qml</file>
+    <file alias="content/calculator.js">C:/CJOPROOQT/QT creator - calqlatr/content/calculator.js</file>
+  </qresource>
+</RCC>
+
